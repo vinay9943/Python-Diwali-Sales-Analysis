@@ -81,21 +81,13 @@ The dataset used in this project is available below.
 
 ### Gender-wise Sales
 
-<p align="center">
-  <img src="gender_analysis.png" alt="Gender Analysis" width="700">
-</p>
+## 📊 Analysis Charts
 
-### Age Group Analysis
-
-![Age Group Analysis](images/age_group_analysis.png)
-
-### State-wise Sales
-
-![State Analysis](images/state_analysis.png)
-
-### Product Category Analysis
-
-![Product Category](images/product_category.png)
+- 👩 [Gender-wise Sales Analysis](#-gender-wise-sales-analysis)
+- 👨‍👩‍👧 [Age Group Analysis](#-age-group-analysis)
+- 🗺️ [State Analysis](#-state-analysis)
+- 💼 [Occupation Analysis](#-occupation-analysis)
+- 🛍️ [Product Category Analysis](#-product-category-analysis)
 
 ---
 
