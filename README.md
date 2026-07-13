@@ -65,7 +65,9 @@ The dataset contains customer demographic information and purchase details colle
 
 ### Gender-wise Sales
 
-![Gender Analysis](images/gender_analysis.png)
+<p align="center">
+  <img src="gender_analysis.png" alt="Gender Analysis" width="700">
+</p>
 
 ### Age Group Analysis
 
