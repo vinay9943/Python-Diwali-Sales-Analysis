@@ -87,7 +87,11 @@ The dataset used in this project is available below.
 - 👨‍👩‍👧 [Age Group Analysis](#-age-group-analysis)
 - 🗺️ [State Analysis](#-state-analysis)
 - 💼 [Occupation Analysis](#-occupation-analysis)
-- 🛍️ [Product Category Analysis](#-product-category-analysis)
+- ## 📊 Analysis
+
+- [Gender-wise Sales Analysis](#gender-wise-sales-analysis)
+- [Age Group Analysis](#age-group-analysis)
+- [State Analysis](#state-analysis)
 
 ---
 
