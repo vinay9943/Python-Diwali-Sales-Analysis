@@ -25,11 +25,10 @@ The objective of this project is to analyze customer purchase patterns during th
 
 ## 📂 Dataset
 
-**Dataset:** `Diwali_Sales_Data.csv`
+The dataset used for this dashboard is available below.
 
-The dataset contains customer demographic information and purchase details collected during the Diwali shopping season.
-
----
+- 📄 **Dataset:** [Blinkit_Data.xlsx](Blinkit_Data.xlsx)
+- 📊 **Excel Dashboard:** [Blinkit Dashboard.xlsx](Blinkit%20Dashboard.xlsx)
 
 ## 🎯 Skills Demonstrated
 
