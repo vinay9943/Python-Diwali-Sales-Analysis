@@ -161,7 +161,9 @@ Run all cells in **Diwali_sales.ipynb**
 - Seaborn
 
 ---
+## 🚀 Project Outcome
 
+The analysis identified key customer segments, high-performing states, and top-selling product categories. These insights can help businesses improve marketing strategies, inventory planning, and customer engagement during festive sales.
 ## 🚀 Future Improvements
 
 - Build an interactive dashboard using Power BI
