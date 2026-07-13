@@ -31,6 +31,18 @@ The dataset contains customer demographic information and purchase details colle
 
 ---
 
+## 🎯 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Customer Segmentation
+- Business Insights
+- Python Programming
+- Pandas
+- NumPy
+- Matplotlib
+
 ## 🛠️ Technologies Used
 
 - 🐍 Python
