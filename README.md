@@ -20,7 +20,7 @@ The objective of this project is to analyze customer purchase patterns during th
 
 ## 📂 Dataset
 
-**Dataset:** `[Diwali_Sales_Data.csv](https://github.com/vinay9943/Python-Diwali-Sales-Analysis/blob/main/Diwali_Sales_Data.csv)`
+**Dataset:** `Diwali_Sales_Data.csv`
 
 The dataset contains customer demographic information and purchase details collected during the Diwali shopping season.
 
