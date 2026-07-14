@@ -75,10 +75,6 @@ The dataset used in this project is available below.
 
 ---
 
-## 📸 Project Screenshots
-
-> Upload your charts inside an **images** folder and replace the file names below.
-
 ### Gender-wise Sales
 
 
