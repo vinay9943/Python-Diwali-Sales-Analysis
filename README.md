@@ -132,17 +132,6 @@ Run all cells in **Diwali_sales.ipynb**
 
 ---
 
-## 📚 Skills Demonstrated
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Business Insights
-- Python Programming
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
 
 ---
 ## 🚀 Project Outcome
