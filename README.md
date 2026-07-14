@@ -327,11 +327,20 @@ The analysis identified key customer segments, high-performing states, and top-s
 
 **Vinay Siddharudh Thisake**
 
-📧 Email: **Vthisake2@gmail.com**
+<p align="center">
+<a href="mailto:Vthisake2@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 
-💼 LinkedIn: **https://www.linkedin.com/in/vinay-thisake-097200299**
+<a href="https://www.linkedin.com/in/vinay-thisake-097200299">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-💻 GitHub: **https://github.com/vinay9943**
+<a href="https://github.com/vinay9943">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+</p>
+
 
 ---
 
