@@ -75,9 +75,6 @@ The dataset used in this project is available below.
 
 ---
 
-### Gender-wise Sales
-
-
 ---
 
 ## 📈 Key Insights
