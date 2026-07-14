@@ -31,10 +31,8 @@ The analysis focuses on:
 
 # 📂 Dataset
 
-**Dataset:** `Diwali_Sales_Data.csv`
-
-The dataset contains customer demographic details, purchase information, occupations, product categories, states, age groups, gender, marital status, and sales amount.
-
+- 📄 **Dataset:** [Diwali_Sales_Data.csv](Diwali_Sales_Data.csv)
+- 📓 **Jupyter Notebook:** [Diwali_sales.ipynb](Diwali_sales.ipynb)
 ---
 
 # 🛠️ Technologies Used
